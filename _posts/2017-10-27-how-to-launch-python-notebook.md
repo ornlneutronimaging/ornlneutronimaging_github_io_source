@@ -18,7 +18,7 @@ or, if you don't see the icon, launch it via the list of programs
 
 Then, in the terminal window, type the following command
 
-> /SNS/users/j35/bin/start_jupyter notebooks
+> /SNS/users/j35/bin/start_jupyter
 
 This will perform the following processes:
  - configure the system to run the right python environment
