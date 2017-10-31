@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Jupyter notebook 101
-date:   2017-10-27
 categories: software
+date:   2017-10-28
 tags: notebook
 ---
 
